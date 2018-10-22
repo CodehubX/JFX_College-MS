@@ -1,2 +1,2 @@
 # College-Project
-Java Group Project
+Java FX Group Project
