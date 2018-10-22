@@ -1,0 +1,8 @@
+Already Existing Login Details
+More user accounts can be created under the "Register" option.
+
+Standard User Email:  	gillskk@gmail.com
+Standard User Password:	password
+
+Manager User Email:	James@gmail.com
+Manager User Password:	password

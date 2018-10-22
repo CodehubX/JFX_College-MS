@@ -1,0 +1,89 @@
+.root *{
+    
+  
+  
+   -fx-font: 14px Arial;
+   -fx-text-fill: black;
+   
+}
+
+
+.button:hover {
+    
+   -fx-background-color: #2196F3;
+   
+}
+.button { 
+    
+   -fx-background-color: #00695C; 
+   -fx-text-fill: white; 
+   -fx-background-radius: 16px;
+   -fx-padding: 10;
+   -fx-spacing: 5;
+   
+}
+
+.tab{
+    
+      -fx-background-color: white;  
+      -fx-text-fill: black;
+      
+      
+}
+
+
+
+
+
+.VBox{
+    
+       -fx-background-color: #2196F3;
+       -fx-border-color: #B3E5FC;
+}
+
+.FlowPane{
+    
+       -fx-background-color: white;
+       -fx-border-color: #B3E5FC;
+    
+    
+}
+
+#UserList{
+    
+    -fx-background-color: #E3F2FD;
+    -fx-border-color: #B3E5FC;
+}
+
+#MenuBar{
+    
+       -fx-background-color: #E3F2FD;
+       -fx-border-color: #B3E5FC;
+}
+
+#DueTaskList{
+    
+       -fx-background-color: white;
+       -fx-border-color: #B3E5FC;
+}
+
+#SubmittedList{
+    
+       -fx-background-color: white;
+       -fx-border-color: #B3E5FC;
+}
+
+#TaskList{
+    
+       -fx-background-color: #E3F2FD;
+       -fx-border-color: #B3E5FC;
+       
+       
+}
+
+* #BorderPane {
+    
+    -fx-background-color: #E3F2FD;
+      
+    
+}
